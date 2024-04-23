@@ -10,9 +10,6 @@ Foco Atual: Estou direcionando meus esforços para aprender e aprimorar minhas h
 Meu objetivo é me tornar um desenvolvedor web altamente qualificado e contribuir para projetos significativos. Estou buscando oportunidades de estágio e projetos que me permitam aplicar e expandir meu conhecimento em tecnologias web e frontend.
 
 # Contatos
-LinkedIn: https://www.linkedin.com/in/joao-carlos-arag%C3%A3o-b5b641305/
-GitHub: github.com/joaocarlos
-
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-carlos-arag%C3%A3o-b5b641305/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
