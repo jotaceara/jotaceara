@@ -1,4 +1,8 @@
-https://github.com/jotaceara/primeiro-codigo-em-C/assets/167908363/8468655b-e2a0-45d2-a765-6238f3fa887f
+<div align="center">
+  <img src="https://github.com/jotaceara/primeiro-codigo-em-C/assets/167908363/8468655b-e2a0-45d2-a765-6238f3fa887f"/> 
+</div>
+<br>
+<br>
 
 # Sobre Mim
 Olá! Sou João Carlos, um estudante de engenharia de software no ICEV, com um fundo em design. Estou apaixonado por tecnologia e estou empenhado em me tornar um desenvolvedor web e frontend de destaque.
